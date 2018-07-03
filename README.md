@@ -1,5 +1,7 @@
 # Fear Evolved Event Assets
 
+![Logo](https://raw.githubusercontent.com/L4-Wyrm/FEe/master/Logo/FEe_SRC_Logo.png "Logo")
+
 Source code of Fertilized Eggs Naturally Spawn
 
 ## Description
