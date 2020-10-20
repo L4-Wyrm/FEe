@@ -92,6 +92,7 @@ src/
 *.png
 *.fbx
 
-# Files
-desktop.ini
-Thumbs.db
+#FEe Files
+
+# Test Maps
+FEe/Maps/*
